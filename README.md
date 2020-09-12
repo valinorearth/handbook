@@ -1,5 +1,7 @@
 # Valinor Earth Handbook
 
+[Handbook.Valinor.Earth](https://handbook.valinor.earth/)
+
 > Communicate, in-fact, over-communicate. Re-iterate to help others understand better. It is a marathon, not a sprint.
 
 This handbook is Work-in-Progress, a living guide, and is being written & built as we grow the team. We have an open culture, and we hope this handbook will help prospects understand us before joining us. The team learns and unlearns from new people, course correct, and continuously writes our company's history as we go on.
