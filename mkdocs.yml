@@ -20,7 +20,7 @@ markdown_extensions:
   - footnotes
 
 extra_css:
-  - assets/css/styles.css
+  - assets/stylesheets/styles-custom.css
 
 extra:
   generator: false
