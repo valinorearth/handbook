@@ -6,13 +6,11 @@
 
 Write/Manage the content in Plain Text, seasoned with MarkDown.
 
-Generator Options
+[MkDocs](https://www.mkdocs.org)
 
-- [MkDocs](https://www.mkdocs.org)
-- Jekyll
-- https://retype.com
-
-Publish: CloudFlare Pages?
+`pip install mkdocs`
+`mkdocs serve`
+`mkdocs build`
 
 ### Inspiration
 

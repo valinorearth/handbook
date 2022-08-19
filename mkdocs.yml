@@ -1,0 +1,46 @@
+site_name: Valinor Earth Handbook
+
+theme:
+  name: material
+  
+  favicon: favicon.ico
+  logo: valinor-earth-logo.png
+
+  palette:
+    scheme: default
+    primary: 'blue grey'
+    accent: blue
+
+  features:
+    - navigation.instant
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
+
+extra_css:
+  - assets/css/styles.css
+
+extra:
+  generator: false
+  version: 1.0
+  
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/valinor-earth/
+      name: Valinor Earth on LinkedIn
+    - icon: fontawesome/brands/twitter-square
+      link: https://twitter.com/valinorearth
+      name: Valinor Earth on Twitter
+    - icon: fontawesome/brands/facebook-square
+      link: https://www.facebook.com/ValinorEarth
+      name: Valinor Earth on Facebook
+    - icon: fontawesome/brands/angellist
+      link: https://angel.co/company/valinor-earth/
+      name: Valinor Earth on AngelList
+    - icon: fontawesome/solid/square-arrow-up-right
+      link: https://www.crunchbase.com/organization/valinor-earth
+      name: Valinor Earth on Crunchbase
+
+copyright: Valinor Earth, Inc.
