@@ -12,9 +12,6 @@ Write/Manage the content in Plain Text, seasoned with MarkDown.
 `mkdocs serve`
 `mkdocs build`
 
-CloudFlare Pages Custom Build
-`pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git && mkdocs build`
-
 ### Inspiration
 
 - https://github.com/basecamp/handbook
