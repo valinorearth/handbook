@@ -22,9 +22,27 @@ We are proud to adopt the quick prototypical Indian Jugaad as a research tool, l
 
 ---
 
-## Heading Two
+## Culture
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+- No politics
+- Full transparency
+- Open-source and research-driven mindset
+- Tech & Product first
+- Products that people love to use
+- Driven and Passionate colleagues
+- Entrepreneurial mindset
+- Good "Team" spirit
+- No bullshitting
+- "Let's do it" mentality
+
+## Team
+
+- Keep the team small. All doers, no talkers.
+- Outsource/Delegate everything that isn’t core. Resist the urge to pick up that last dollar.
+- Understand and care about Customer Service.
+- People choose what to work on. Better they ship what they want than not ship what you want.
+- No tasks longer than one week. You have to ship something into live production every week – worst case, two weeks. If you just joined, ship something.
+- Peer-management. Promise what you’ll do in the coming week on internal communication. Deliver – or publicly break your promise – next week.
 
 ### Heading Three
 

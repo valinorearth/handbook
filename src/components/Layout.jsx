@@ -22,6 +22,7 @@ const navigation = [
   {
     title: 'Operations',
     links: [
+      { title: 'Remote', href: '/docs/remote' },
       { title: 'Meetings', href: '/docs/meetings' },
       { title: 'Moonlighting', href: '/docs/moonlighting' },
     ],
