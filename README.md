@@ -1,13 +1,9 @@
-# Valinor Earth Handbook
+# Valinor.Earth - Handbook
 
 > As long as you are doing your work well and continuously working on the next most important thing prioritized by the business, any pressure to deliver beyond what your team is capable of is objectively unreasonable.
 
 - [Handbook.Valinor.Earth](https://handbook.valinor.earth/)
 - [Open Source](https://github.com/valinorearth/handbook)
-
-## Add/Edit Content
-
-The content is powered by [Markdoc](https://markdoc.io), which allows you to just add/edit plaintext (markdown) files.
 
 ### Inspiration
 
